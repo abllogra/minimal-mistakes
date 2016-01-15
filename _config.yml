@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+title:            Abel Llopis
+locale:           es_ES
 url:
 
 
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: Abel Llopis
+  avatar: abel-photo.png
+  bio: "Programador iOS, watchOS, tvOS, OS X y Android. Trail runner."
+  email: abel.llopis@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: abel_llopis
   facebook: #username
   google:
     plus: #username
@@ -44,7 +44,7 @@ owner:
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
-  instagram: #username
+  instagram: al3el
   lastfm: #username
   tumblr: #username
   pinterest: #username
