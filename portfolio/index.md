@@ -6,9 +6,9 @@ modified:
 excerpt:
 tags: []
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: portfolio.jpg
+  credit: Alejandro Escamilla
+  creditlink: http://stockdrops.com/macbook-technology-computer-keyboard-mac-apple-book-pen/ 
 ---
 #### Runner Timing
 

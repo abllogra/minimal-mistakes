@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ¿Cómo Promocionar Una App?
+author: abel_llopis
 modified:
 categories:
 excerpt:
