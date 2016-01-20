@@ -8,7 +8,7 @@ tags: []
 image:
   feature: portfolio.jpg
   credit: Alejandro Escamilla
-  creditlink: http://stockdrops.com/macbook-technology-computer-keyboard-mac-apple-book-pen/ 
+  creditlink: http://stockdrops.com/macbook-technology-computer-keyboard-mac-apple-book-pen/
 ---
 #### Runner Timing
 
